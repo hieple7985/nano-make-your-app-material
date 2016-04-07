@@ -1,4 +1,4 @@
-# Popular Movies
+# Make Your Application Material
 - Project 5: Udacity Material Design Project - [Udacity: Android Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801)
 - The Material Design project is made and used for code reviewing in the [Udacity: Android Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801) course. It is the functional project version based on the requirementsa and rubric.
 

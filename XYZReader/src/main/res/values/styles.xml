@@ -17,7 +17,11 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <style name="CardViewStyle" parent="android:Widget.TextView">
+        <item name="android:foreground">@drawable/cardview_bg_selector_1</item>
+    </style>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.NoActionBar">
 
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/theme_primary</item>
